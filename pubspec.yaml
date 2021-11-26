@@ -1,4 +1,4 @@
-name: platform
+name: platform_info
 description: Flutter Platform Info package.
 version: 0.0.1
 homepage: https://github.com/mosamuhana
@@ -15,4 +15,4 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.4
+  flutter_lints: ^1.0.0
